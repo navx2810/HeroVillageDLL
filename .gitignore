@@ -1,0 +1,15 @@
+# VS files
+*.sln
+*.userprefs
+*.csproj
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+AssemblyInfo.cs
+
+# Folders
+*/bin/*
+*/obj/*
+UnitTesting/*
